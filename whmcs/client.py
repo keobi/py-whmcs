@@ -1,7 +1,7 @@
 import datetime
 import urllib.parse
 import requests
-from endpoints import *
+from .endpoints import *
 
 
 class WHMCSAPIClient(object):

@@ -1,5 +1,5 @@
 from marshmallow import Schema, fields, EXCLUDE
-from fields import *
+from .fields import *
 
 
 __all__ = [
